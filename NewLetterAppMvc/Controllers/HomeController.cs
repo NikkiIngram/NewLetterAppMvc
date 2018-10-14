@@ -40,10 +40,6 @@ namespace NewLetterAppMvc.Controllers
             }
         }
 
-
-
-
-
         //private readonly string connectionString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=Newsletter;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
 
         //public ActionResult Index()
